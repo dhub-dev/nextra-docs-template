@@ -2,7 +2,7 @@
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
 
-asfd
+![](static/img/Dhub-2.png)
 
 [**Live Demo →**](https://nextra-docs-template.vercel.app)
 
